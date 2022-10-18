@@ -1,0 +1,26 @@
+[ {
+  "nome" : "Masashi",
+  "sobreNome" : "Kishimoto",
+  "nacionalidade" : "Japones",
+  "livros" : [ ]
+}, {
+  "nome" : "Shinobu ",
+  "sobreNome" : "Ohtaka",
+  "nacionalidade" : "Japones",
+  "livros" : [ ]
+}, {
+  "nome" : "Ei ",
+  "sobreNome" : "Aoki ",
+  "nacionalidade" : "Japones",
+  "livros" : [ ]
+}, {
+  "nome" : "Hiro ",
+  "sobreNome" : "Mashima",
+  "nacionalidade" : "Japones",
+  "livros" : [ ]
+}, {
+  "nome" : "Katou",
+  "sobreNome" : "Kazue",
+  "nacionalidade" : "Japones",
+  "livros" : [ ]
+} ]

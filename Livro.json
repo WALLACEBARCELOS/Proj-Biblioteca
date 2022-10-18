@@ -1,0 +1,51 @@
+[ {
+  "codigo" : 1,
+  "titulo" : "Naruto Shippuden",
+  "autor" : {
+    "nome" : "Masashi",
+    "sobreNome" : "Kishimoto",
+    "nacionalidade" : "Japones",
+    "livros" : [ ]
+  },
+  "ano" : "2007"
+}, {
+  "codigo" : 2,
+  "titulo" : "Magi: The Labyrinth of Magic",
+  "autor" : {
+    "nome" : "Shinobu ",
+    "sobreNome" : "Ohtaka",
+    "nacionalidade" : "Japones",
+    "livros" : [ ]
+  },
+  "ano" : "2012"
+}, {
+  "codigo" : 3,
+  "titulo" : "Re:CREATORS",
+  "autor" : {
+    "nome" : "Ei ",
+    "sobreNome" : "Aoki ",
+    "nacionalidade" : "Japones",
+    "livros" : [ ]
+  },
+  "ano" : "2017"
+}, {
+  "codigo" : 4,
+  "titulo" : "Fairy Tail",
+  "autor" : {
+    "nome" : "Hiro ",
+    "sobreNome" : "Mashima",
+    "nacionalidade" : "Japones",
+    "livros" : [ ]
+  },
+  "ano" : "2009"
+}, {
+  "codigo" : 5,
+  "titulo" : "Blue Exorcist",
+  "autor" : {
+    "nome" : "Masashi",
+    "sobreNome" : "Kishimoto",
+    "nacionalidade" : "Japones",
+    "livros" : [ ]
+  },
+  "ano" : "2011"
+} ]
