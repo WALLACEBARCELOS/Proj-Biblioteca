@@ -41,6 +41,7 @@ public class GuiEmprestimo {
                     Leitor leitor = (Leitor) cbxNome.getSelectedItem();
                     Emprestimo emprestimo = new Emprestimo(exemplar, leitor);
                     new DaoEmprestimo().save(emprestimo);
+                    new DaoLeitor().save(leitor);
                     preencherLista();
 
                 }catch (Exception ex){
@@ -84,6 +85,7 @@ public class GuiEmprestimo {
     public void preencherListaExemplares(){
         cbxExemplares.removeAllItems();
         try {
+
             List<Exemplar> exemplares = new DaoExemplar().getAll();
             cbxExemplares.removeAllItems();
             for(Exemplar exemplar : exemplares){
@@ -103,8 +105,9 @@ public class GuiEmprestimo {
                 cbxNome.removeAllItems();
                 for(Professor professor : professores){
                     cbxNome.addItem(professor);
-                    List<Leitor> leitores = new ArrayList<>();
+                    List<Leitor> leitores = new  DaoLeitor().getAll();
                     leitores.addAll(professores);
+                   // this.lstEmprestimo.setListData(leitores.toArray());
                 }
         } catch (Exception e) {
             throw new RuntimeException(e);
@@ -118,7 +121,7 @@ public class GuiEmprestimo {
                 cbxNome.removeAllItems();
                 for (Aluno aluno : alunos) {
                     cbxNome.addItem(aluno);
-                    List<Leitor> leitores = new ArrayList<>();
+                    List<Leitor> leitores = new  DaoLeitor().getAll();
                     leitores.addAll(alunos);
                 }
         } catch (Exception e) {
@@ -136,7 +139,7 @@ public class GuiEmprestimo {
         frame.setContentPane(guiEmprestimo.JPanel);
         //fechar o programa
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        frame.setTitle("Cadastro de Livros");
+        frame.setTitle("Emprestimo de Exemplar");
         frame.pack();
         frame.setVisible(true);
         frame.setLocation(1000,250);
@@ -145,7 +148,6 @@ public class GuiEmprestimo {
     public static void main(String[] args) {
         new GuiEmprestimo().abrirTela();
     }
-
 
 
 }

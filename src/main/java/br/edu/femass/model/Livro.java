@@ -43,6 +43,10 @@ public class Livro {
         return autor;
     }
 
+    public List<Exemplar> getExemplares() {
+        return exemplares;
+    }
+
     public void setExemplares(List<Exemplar> exemplares) {
         this.exemplares = exemplares;
     }

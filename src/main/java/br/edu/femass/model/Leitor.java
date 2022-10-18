@@ -67,6 +67,7 @@ public class Leitor {
     }
     public boolean equals(Object obj){
         Leitor leitor = (Leitor) obj;
+        if(leitor ==null)return false;
         return this.prazoMaximoDevolucao.equals(leitor.getPrazoMaximoDevolucao());
     }
 

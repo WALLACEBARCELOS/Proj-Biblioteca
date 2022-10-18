@@ -54,4 +54,32 @@
   "codigo" : 14,
   "dataAquisicao" : [ 2022, 10, 18, 1, 6, 58, 685347400 ],
   "titulo" : "Magi: The Labyrinth of Magic"
+}, {
+  "codigo" : 15,
+  "dataAquisicao" : [ 2022, 10, 18, 16, 53, 47, 510652700 ],
+  "titulo" : "Re:CREATORS"
+}, {
+  "codigo" : 15,
+  "dataAquisicao" : [ 2022, 10, 18, 19, 56, 57, 458672100 ],
+  "titulo" : "Fairy Tail"
+}, {
+  "codigo" : 16,
+  "dataAquisicao" : [ 2022, 10, 18, 19, 56, 58, 38748200 ],
+  "titulo" : "Fairy Tail"
+}, {
+  "codigo" : 17,
+  "dataAquisicao" : [ 2022, 10, 18, 19, 57, 4, 72294800 ],
+  "titulo" : "Magi: The Labyrinth of Magic"
+}, {
+  "codigo" : 18,
+  "dataAquisicao" : [ 2022, 10, 18, 19, 57, 4, 407735200 ],
+  "titulo" : "Magi: The Labyrinth of Magic"
+}, {
+  "codigo" : 19,
+  "dataAquisicao" : [ 2022, 10, 18, 19, 57, 9, 32058900 ],
+  "titulo" : "Naruto Shippuden"
+}, {
+  "codigo" : 20,
+  "dataAquisicao" : [ 2022, 10, 18, 19, 57, 9, 339821600 ],
+  "titulo" : "Naruto Shippuden"
 } ]

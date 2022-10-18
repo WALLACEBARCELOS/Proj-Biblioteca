@@ -9,6 +9,8 @@ import javax.swing.event.ListSelectionListener;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
+import java.util.List;
 
 public class GuiAtraso {
     private JPanel Jpanel;
@@ -35,11 +37,23 @@ public class GuiAtraso {
 
     public void preencherLista(){
         try{
-            lstAtraso.setListData(new DaoLeitor().getAll().toArray());
+             List<Emprestimo> emprestimoList = new DaoEmprestimo().getAll();
+             List<Emprestimo> emprestimosAtrasados = new ArrayList<>();
+            for (int i=0; i<emprestimoList.size(); i++)
+            {
+                if(emprestimoList.get(i).atraso()==true){
+                    emprestimosAtrasados.add(emprestimoList.get(i));
+                }
+            }
+             //for (Emprestimo emprestimo : emprestimoList){
+              //   if(emprestimo.atraso()==true){
+               //      emprestimosAtrasados.add(emprestimo);
+                // }
+             //}
+            lstAtraso.setListData(emprestimosAtrasados.toArray());
         }catch (Exception e){
             JOptionPane.showMessageDialog(null,e.getMessage());
         }
-
     }
 
     public void abrirTela(){
@@ -50,9 +64,10 @@ public class GuiAtraso {
         preencherLista();
         //fechar o programa
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        frame.setTitle("Cadastro de Aluno");
+        frame.setTitle("Autores em atraso");
         frame.pack();
         frame.setVisible(true);
         frame.setLocation(1000,250);
+
     }
 }

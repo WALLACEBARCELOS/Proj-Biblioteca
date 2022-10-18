@@ -11,12 +11,6 @@ public class Autor {
 
     private List<Livro> livros;
 
-    public Autor(String nome, String sobreNome) {
-        this.nome = nome;
-        this.sobreNome = sobreNome;
-        this.livros = new ArrayList<Livro>();
-    }
-
     public Autor(String nome, String sobreNome, String nacionalidade) {
         this.nome = nome;
         this.sobreNome = sobreNome;

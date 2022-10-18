@@ -20,7 +20,7 @@ public class Emprestimo {
         this.dataPrevistaDevolucao = LocalDate.now().plusDays(leitor.getPrazoMaximoDevolucao());
         this.dataEmprestimo = LocalDate.now();
         this.exemplar = exemplar;
-
+        this.leitor = leitor;
 
     }
 
@@ -34,6 +34,14 @@ public class Emprestimo {
 
     public LocalDate getDataEmprestimo() {
         return dataEmprestimo;
+    }
+
+    public Leitor getLeitor() {
+        return leitor;
+    }
+
+    public void setLeitor(Leitor leitor) {
+        this.leitor = leitor;
     }
 
     public LocalDate getDataPrevistaDevolucao() {
@@ -62,14 +70,4 @@ public class Emprestimo {
         return this.getExemplar() + "  -  " + "Devolução MAX: " + this.getDataPrevistaDevolucao().toString();
     }
 
-    public void LeitorAtrasado(Leitor leitor){
-        if(atraso()==true){
-            List<Leitor> atrasado = new ArrayList<>();
-            atrasado.add(leitor);
-        }
-    }
-
-    public static void main(String[] args) {
-
-    }
 }

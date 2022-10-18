@@ -44,7 +44,7 @@ public class GuiDevolucao {
         frame.setContentPane(guiDevolucao.Jpanel);
         //fechar o programa
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        frame.setTitle("Cadastro de Livros");
+        frame.setTitle("Devolução de Exemplares");
         frame.pack();
         frame.setVisible(true);
         frame.setLocation(1000,250);

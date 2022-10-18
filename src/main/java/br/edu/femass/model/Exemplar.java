@@ -9,6 +9,7 @@ public class Exemplar {
     private LocalDateTime dataAquisicao;
 
     private String titulo;
+    private Livro livro;
     private static Long proximoNumero = 1L;
 
     public Exemplar(Livro livro) {
@@ -19,9 +20,11 @@ public class Exemplar {
 
     }
 
+
     public Exemplar() {
 
     }
+    //List<Exemplar> exemplares = livro.getExemplares();
 
     public Long getCodigo() {
         return codigo;
@@ -51,7 +54,6 @@ public class Exemplar {
             }
         }
     }
-
 
     @Override
     public String toString() {

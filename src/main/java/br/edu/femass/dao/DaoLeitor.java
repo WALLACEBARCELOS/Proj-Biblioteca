@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DaoLeitor extends Persistencia<Leitor> implements Dao<Leitor> {
-    private final static String NOMEARQUIVO = "Leiotor.json";
+    private final static String NOMEARQUIVO = "Leitor.json";
 
     public void save(Leitor leitor) throws Exception {
         List<Leitor> leitores = getAll();

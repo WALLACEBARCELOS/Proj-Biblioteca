@@ -5,6 +5,7 @@ import br.edu.femass.dao.DaoExemplar;
 import br.edu.femass.dao.DaoLivro;
 import br.edu.femass.model.Autor;
 import br.edu.femass.model.Exemplar;
+import br.edu.femass.model.Leitor;
 import br.edu.femass.model.Livro;
 
 import javax.swing.*;
@@ -77,7 +78,7 @@ public class GuiCriarExemplar {
         frame.setContentPane(guiCriarExemplar.JPanel);
         //fechar o programa
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        frame.setTitle("Cadastro de Livros");
+        frame.setTitle("Cadastro de Exemplar");
         frame.pack();
         frame.setVisible(true);
         frame.setLocation(1000,250);

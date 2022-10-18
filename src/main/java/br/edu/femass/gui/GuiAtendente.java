@@ -48,7 +48,7 @@ public class GuiAtendente {
         frame.setContentPane(guiAtendente.Jpanel);
         //fechar o programa
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        frame.setTitle("Cadastro de Aluno");
+        frame.setTitle("Menu Atendente");
         frame.pack();
         frame.setVisible(true);
         frame.setLocation(1000,250);

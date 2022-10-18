@@ -7,6 +7,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -17,6 +18,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -27,6 +29,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -37,6 +40,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -47,6 +51,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -57,6 +62,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -67,6 +73,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -77,6 +84,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -87,6 +95,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -97,36 +106,51 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 55, 677585300 ],
     "titulo" : "Blue Exorcist"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
-  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataPrevistaDevolucao" : [ 2022, 10, 2 ],
   "dataDevolucao" : null,
   "exemplar" : {
     "codigo" : 13,
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 58, 513439300 ],
     "titulo" : "Magi: The Labyrinth of Magic"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
-  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataPrevistaDevolucao" : [ 2022, 10, 5 ],
   "dataDevolucao" : null,
   "exemplar" : {
     "codigo" : 1,
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
-  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataPrevistaDevolucao" : [ 2022, 10, 1 ],
   "dataDevolucao" : null,
   "exemplar" : {
     "codigo" : 4,
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 47, 607444000 ],
     "titulo" : "Fairy Tail"
   },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 9, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
+    "titulo" : "Naruto Shippuden"
+  },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -137,6 +161,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -147,6 +172,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -157,16 +183,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
-  "atrasado" : [ ]
-}, {
-  "dataEmprestimo" : [ 2022, 10, 18 ],
-  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
-  "dataDevolucao" : null,
-  "exemplar" : {
-    "codigo" : 1,
-    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
-    "titulo" : "Naruto Shippuden"
-  },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -177,6 +194,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 45, 231793100 ],
     "titulo" : "Re:CREATORS"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -187,6 +205,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 47, 607444000 ],
     "titulo" : "Fairy Tail"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -197,6 +216,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
     "titulo" : "Naruto Shippuden"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -207,6 +227,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 47, 607444000 ],
     "titulo" : "Fairy Tail"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -217,6 +238,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 42, 744936400 ],
     "titulo" : "Magi: The Labyrinth of Magic"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -227,6 +249,7 @@
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 56, 41572600 ],
     "titulo" : "Blue Exorcist"
   },
+  "leitor" : null,
   "atrasado" : [ ]
 }, {
   "dataEmprestimo" : [ 2022, 10, 18 ],
@@ -236,6 +259,125 @@
     "codigo" : 3,
     "dataAquisicao" : [ 2022, 10, 18, 1, 6, 45, 231793100 ],
     "titulo" : "Re:CREATORS"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 14,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 58, 685347400 ],
+    "titulo" : "Magi: The Labyrinth of Magic"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 14,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 58, 685347400 ],
+    "titulo" : "Magi: The Labyrinth of Magic"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 49, 963726200 ],
+    "titulo" : "Blue Exorcist"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
+    "titulo" : "Naruto Shippuden"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 49, 963726200 ],
+    "titulo" : "Blue Exorcist"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
+    "titulo" : "Naruto Shippuden"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 13,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 58, 513439300 ],
+    "titulo" : "Magi: The Labyrinth of Magic"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 9,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 56, 41572600 ],
+    "titulo" : "Blue Exorcist"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
+    "titulo" : "Naruto Shippuden"
+  },
+  "leitor" : null,
+  "atrasado" : [ ]
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 18, 1, 6, 39, 389325000 ],
+    "titulo" : "Naruto Shippuden"
+  },
+  "leitor" : {
+    "codigo" : null,
+    "nome" : "Wallace Barcelos",
+    "endereco" : "Rua 3",
+    "telefone" : "22 999655402",
+    "prazoMaximoDevolucao" : 15,
+    "leitores" : [ ],
+    "matricula" : "2001230051"
   },
   "atrasado" : [ ]
 } ]
