@@ -23,4 +23,9 @@
   "sobreNome" : "Kazue",
   "nacionalidade" : "Japones",
   "livros" : [ ]
+}, {
+  "nome" : "",
+  "sobreNome" : "",
+  "nacionalidade" : "",
+  "livros" : [ ]
 } ]
